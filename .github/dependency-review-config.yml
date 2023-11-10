@@ -7,10 +7,6 @@ allow-licenses:
   - GPL-3.0
   - BSD-3-Clause
 
-deny-licenses: 
-  - LGPL-2.0
-  - BSD-2-Clause
-
 allow-ghsas: 
   - GHSA-abcd-1234-5679
   - GHSA-efgh-1234-5679
